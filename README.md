@@ -12,13 +12,11 @@
 
 ---
 
-### estatísticas:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebynessa&layout=compact&theme=radical" />
 </p>
 
 ---
-### 🔗 conecte-se comigo:
 <p align="center">
   <a href="https://linkedin.com/in/vanessa-f-ferreira">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white">

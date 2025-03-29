@@ -4,9 +4,7 @@
 </p>
 
 ---
-I'm in the **3rd semester of Software Engineering**, and my goal is to become a **Full Stack Developer**. Currently, I'm focusing on **Front-End development**, exploring **HTML, CSS, JavaScript, and modern frameworks** to create interactive and intuitive web applications.  
-
-In the future, I plan to expand my knowledge into **Back-End development**, building complete and scalable applications.  
+I'm in the **3rd semester of Software Engineering**, and my goal is to become a **Full Stack Developer**. Currently, I'm focusing on **Front-End development**, and in the future, I plan to expand my knowledge into **Back-End development**, building complete and scalable applications.
 ---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,linux" />

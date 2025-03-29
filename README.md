@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E90FF&center=true&vCenter=true&width=600&height=50&lines=Hi!+I'm+Vanessa;I'm+studying+Software+Engineering;in+the+3rd+semester;I+focus+on+Front-End;+and+I'm+always+learning&duration=1500&colors=1E90FF,00BFFF,0000FF,4169E1,4682B4" />
+<img src="size=30&color=1E90FF&center=true&vCenter=true&width=600&height=50&lines=Hi!+I'm+Vanessa&duration=1500&colors=1E90FF" />
 </p>
 
 ---

@@ -4,7 +4,9 @@
 </p>
 
 ---
-I'm in the **3rd semester of Software Engineering**, and my goal is to become a **Full Stack Developer**. Currently, I'm focusing on **Front-End development**, and in the future, I plan to expand my knowledge into **Back-End development**, building complete and scalable applications.
+<p style="font-size: 12px;">
+I'm in the <strong>3rd semester of Software Engineering</strong>, and my goal is to become a <strong>Full Stack Developer</strong>. Currently, I'm focusing on <strong>Front-End development</strong>, and in the future, I plan to expand my knowledge into <strong>Back-End development</strong>, building complete and scalable applications.
+</p>
 ---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,linux" />

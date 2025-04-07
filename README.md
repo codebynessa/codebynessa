@@ -14,7 +14,9 @@ I'm in the <strong>3rd semester of Software Engineering</strong>, and my goal is
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebynessa&layout=compact&theme=radical" />
+</p>
 
 
 ---

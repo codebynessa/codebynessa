@@ -10,7 +10,7 @@ I'm in the <strong>3rd semester of Software Engineering</strong>, and my goal is
 </p>
 <hr>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,c,cpp,next" />
 </p>
 
 ---

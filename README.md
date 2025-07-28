@@ -6,7 +6,9 @@
 ---
 
 <p style="font-size: 12px;" align="center">
-I'm in the <strong>3rd semester of Software Engineering</strong>, and my goal is to become a <strong>Full Stack Developer</strong>. Currently, I'm focusing on <strong>Front-End development</strong>, and in the future, I plan to expand my knowledge into <strong>Back-End development</strong>, building complete and scalable applications.
+🎓 Estudante de Engenharia de Software com formação técnica em Informática.
+💻 Foco em desenvolvimento front-end, com habilidades em HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS e Next.js.
+🚀 Aberta a aprender e atuar em diferentes áreas da TI.
 </p>
 <hr>
 <p align="center">

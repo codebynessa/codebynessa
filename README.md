@@ -8,7 +8,7 @@
 <p style="font-size: 12px;" align="center">
 🎓 Estudante de Engenharia de Software com formação técnica em Informática.
 💻 Foco em desenvolvimento front-end, com habilidades em HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS e Next.js.
-🚀 Aberta a aprender e atuar em diferentes áreas da TI.
+Aberta a aprender e atuar em diferentes áreas da TI.
 </p>
 <hr>
 <p align="center">
